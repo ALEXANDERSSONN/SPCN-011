@@ -32,3 +32,8 @@
       - @hourly /usr/sbin/ntpdate th.pool.ntp.org
    - คำสั่งการ ping
       - ping 1.1.1.1
+
+**การ Clone Master VM ให้ไปเป็น Template
+    - ให้คลิกขวาไปที่ Master VM และคลิกไปที่ convert to template
+![Convert template](https://user-images.githubusercontent.com/115150753/207861788-e874b337-986f-4da1-9222-983db74ef103.png)
+
