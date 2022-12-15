@@ -39,3 +39,6 @@
 ![Convert template](https://user-images.githubusercontent.com/115150753/207861788-e874b337-986f-4da1-9222-983db74ef103.png)
 
 **สร้างตัว Clone ที่มาจาก Template**
+- คลิกขวาที่ตัว Template และคลิกไปที่ Clone
+
+![Clone1](https://user-images.githubusercontent.com/115150753/207862859-b46640d6-bde0-4d45-904d-2c060cef8bfc.png)
