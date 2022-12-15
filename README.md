@@ -58,3 +58,5 @@
       - echo -n > /etc/machine-id
       - cat /etc/machine-id
       - ln -s /etc/machine-id /var/lib/dbus/machine-id
+
+**การสร้าง CT**
