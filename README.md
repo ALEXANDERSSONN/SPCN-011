@@ -13,6 +13,8 @@
 
 
   - System ใช้ค่า Default และทำการติ๊ก Qemu Agent
+  ![ezgif-1-qemu](https://user-images.githubusercontent.com/115150753/207927199-6e985043-34c6-4831-897b-402e3adc30b4.gif)
+
   - Disk,CPU,Memory,Network ใช้ค่า Default
   ![confirm ](https://user-images.githubusercontent.com/115150753/207854831-db9a1a5b-2864-4bb5-b410-541f5b8f6e14.png)
    
