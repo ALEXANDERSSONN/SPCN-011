@@ -1,7 +1,7 @@
 # SPCN-011
 **สร้าง vm and ct on Proxmox cluster**
 - ทำการ Create Master VM (ubuntu 22.04)
-  - คลิกขวาที่ Create VM ด้านขวาบน
+  - คลิกที่ Create VM ด้านขวาบน
   - ตั้งชื่อ ทำการเลือก Node ตั้งชื่อ และเลือก Resource Pool 
   - OS เลือก ISO image เป็น ubuntu-22.04.1-live-server-amd64.iso เลือก type เป็น linux
   - System ใช้ค่า Default และทำการติ๊ก Qemu Agent
@@ -60,3 +60,13 @@
       - ln -s /etc/machine-id /var/lib/dbus/machine-id
 
 **การสร้าง CT**
+ - คลิกที่ Create CT ด้านขวาบน
+ - ทำการตั้งชื่อ เลือก Resource Pool และตั้ง Password
+ - ทำการ Load Key SSH ที่ไป Download มาได้จาก Github
+ - Template ให้เลือกเป็น Ubuntu-22.04-standard_22.04-1_amd64.tar.zst
+ - Network IPv4 ให้เลือกเป็น DHCP IPv6 ให้เลือกเป็น SLAAC 
+ - เมื่อติดตั้งเสร็จเรียบร้อยแล้วให้ทำการ Set Up ค่าต่างๆ ด้วยคำสั่งต่อไปนี้
+  - Set เวลา โดยใช้คำสั่ง
+     - sudo time datectl set-timezone Asia/Bangkok
+ - คำสั่งที่ใช้ในการติดตั้ง htop
+     - apt install htop
