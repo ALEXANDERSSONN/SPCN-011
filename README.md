@@ -70,3 +70,5 @@
      - sudo time datectl set-timezone Asia/Bangkok
  - คำสั่งที่ใช้ในการติดตั้ง htop
      - apt install htop
+
+![htop](https://user-images.githubusercontent.com/115150753/207872711-c39b6fdf-7e3b-4356-8780-16ba84218554.png)
