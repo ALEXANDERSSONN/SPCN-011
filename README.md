@@ -13,22 +13,22 @@
  
  เมื่อติดตั้งเสร็จเรียบร้อยแล้วให้ทำการ Set Up ค่าต่างๆ ด้วยคำสั่งต่อไปนี้
   - Set เวลา โดยใช้คำสั่ง
-    - sudo time datectl set-timezone Asia/Bangkok
+     - sudo time datectl set-timezone Asia/Bangkok
   - คำสั่งที่ใช้ในการอัพเดท
-    - sudo apt update; sudo apt upgrade -y
+     - sudo apt update; sudo apt upgrade -y
   - คำสั่งที่ใช้ติดตั้ง Qemu Agent และการใช้งาน Qemu
-    - sudo apt install qemu-guest-agent
-    - sudo systemctl start qemu-guest-agent
-    - sudo systemctl status qemu-guest-agent
+     - sudo apt install qemu-guest-agent
+     - sudo systemctl start qemu-guest-agent
+     - sudo systemctl status qemu-guest-agent
    - คำสั่งที่ใช้ติดตั้ง NANO
-    - apt install nano
+      - apt install nano
    - คำสั่งที่ใช้ติดตั้ง dnsutils
-    - apt install dnsutils
+      - apt install dnsutils
    - คำสั่งที่ใช้ติดตั้ง crontab
-    - apt install crontab
+      - apt install crontab
    - set ค่าเวลาให้ตรง
-    - ntpdate th.pool.ntp.org
-    - crontab -e
-    - @hourly /usr/sbin/ntpdate th.pool.ntp.org
+      - ntpdate th.pool.ntp.org
+      - crontab -e
+      - @hourly /usr/sbin/ntpdate th.pool.ntp.org
    - คำสั่งการ ping
-    - ping 1.1.1.1
+      - ping 1.1.1.1
