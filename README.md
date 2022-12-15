@@ -8,6 +8,8 @@
 ![ezgif-1-resource](https://user-images.githubusercontent.com/115150753/207925232-19dbe0ee-d4a2-4c4a-95e4-f1cc06fe4a30.gif)
 
   - OS เลือก ISO image เป็น ubuntu-22.04.1-live-server-amd64.iso เลือก type เป็น linux
+  ![ezgif-1-iso](https://user-images.githubusercontent.com/115150753/207925603-273ac676-526b-4ebd-a167-5a98916896c3.gif)
+
   - System ใช้ค่า Default และทำการติ๊ก Qemu Agent
   - Disk,CPU,Memory,Network ใช้ค่า Default
   ![confirm ](https://user-images.githubusercontent.com/115150753/207854831-db9a1a5b-2864-4bb5-b410-541f5b8f6e14.png)
