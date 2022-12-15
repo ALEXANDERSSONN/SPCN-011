@@ -5,6 +5,8 @@
 ![ezgif-3-3190f34ba1](https://user-images.githubusercontent.com/115150753/207913674-51bf5ba5-6c17-41f4-86c0-325c5d2f6963.gif)
 
   - ตั้งชื่อ ทำการเลือก Node ตั้งชื่อ และเลือก Resource Pool 
+![ezgif-1-resource](https://user-images.githubusercontent.com/115150753/207925232-19dbe0ee-d4a2-4c4a-95e4-f1cc06fe4a30.gif)
+
   - OS เลือก ISO image เป็น ubuntu-22.04.1-live-server-amd64.iso เลือก type เป็น linux
   - System ใช้ค่า Default และทำการติ๊ก Qemu Agent
   - Disk,CPU,Memory,Network ใช้ค่า Default
