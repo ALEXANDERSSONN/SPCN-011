@@ -62,7 +62,10 @@
       - ln -s /etc/machine-id /var/lib/dbus/machine-id
 
 **การสร้าง CT**
+
  - คลิกที่ Create CT ด้านขวาบน
+ ![ezgif-3-ct](https://user-images.githubusercontent.com/115150753/207914608-90f9be76-4cce-45d5-b148-e7b5d6fcf4f2.gif)
+ 
  - ทำการตั้งชื่อ เลือก Resource Pool และตั้ง Password
  - ทำการ Load Key SSH ที่ไป Download มาได้จาก Github
  - Template ให้เลือกเป็น Ubuntu-22.04-standard_22.04-1_amd64.tar.zst
