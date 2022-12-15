@@ -7,3 +7,6 @@
   4. System ใช้ค่า Default และทำการติ๊ก Qemu Agent
   5. Disk,CPU,Memory,Network ใช้ค่า Default
   ![confirm ](https://user-images.githubusercontent.com/115150753/207854831-db9a1a5b-2864-4bb5-b410-541f5b8f6e14.png)
+   
+  6.เมื่อถึงขั้นตอน SSH ให้ทำการ Import SSH จาก Github ของผู้ใช้งานมาด้วย
+  ![gitHUB SSH](https://user-images.githubusercontent.com/115150753/207856391-3ba07e9c-1f61-4adb-b8d0-530547290fcb.png)
