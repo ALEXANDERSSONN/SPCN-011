@@ -38,7 +38,7 @@
 **การ Clone Master VM ให้ไปเป็น Template**
 - ให้คลิกขวาไปที่ Master VM และคลิกไปที่ convert to template
 
-![Convert template](https://user-images.githubusercontent.com/115150753/207861788-e874b337-986f-4da1-9222-983db74ef103.png)
+![ezgif-3-template](https://user-images.githubusercontent.com/115150753/207916204-0b57f541-44ee-42f4-a52f-14a7efcedc1d.gif)
 
 **สร้างตัว Clone ที่มาจาก Template**
 - คลิกขวาที่ตัว Template และคลิกไปที่ Clone
