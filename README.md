@@ -123,8 +123,11 @@
  ![mint install 4](https://user-images.githubusercontent.com/115150753/208072830-ccc9e35b-2029-42f9-b031-29cb141bb55a.png)
 
  - รอติดตั้งจนเสร็จ
-
  ![mint install 5](https://user-images.githubusercontent.com/115150753/208072889-e3d9a265-3f7d-452a-986f-aef53dae65dc.png)
+
+ - เมื่อติดตั้งเสร็จก็จะได้เป็น Linux Mint ตัวเต็ม
+ ![mint install 6](https://user-images.githubusercontent.com/115150753/208074561-7e233d67-3466-4200-b5bf-612fa8ce06e3.png)
+
 
 
 
