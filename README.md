@@ -107,4 +107,8 @@
  - เมื่อ Boot ขึ้นมาแล้ว ให้เลือก Start Linux Mint 21 Mate 64-bit
  ![Mint 1](https://user-images.githubusercontent.com/115150753/208068939-99827872-ce6f-4ce3-8828-73837b16fa61.png)
 
+ - รอจนกว่าจะเข้ามาที่หน้า Desktop ของ Mint
+ ![mint desktop](https://user-images.githubusercontent.com/115150753/208069499-8472ba85-bbd2-43b1-9e58-3750815b4798.png)
+
+
 
