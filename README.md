@@ -110,5 +110,8 @@
  - รอจนกว่าจะเข้ามาที่หน้า Desktop ของ Mint
  ![mint desktop](https://user-images.githubusercontent.com/115150753/208069499-8472ba85-bbd2-43b1-9e58-3750815b4798.png)
 
+ - คลิกไปที่ Install Linux Mint ด้านขวาบน เพื่อทำการติดตั้ง
+ ![ezgif-1-install mint](https://user-images.githubusercontent.com/115150753/208070843-47a3680b-5f16-46e9-b5d9-d63d2723c1f1.gif)
+
 
 
