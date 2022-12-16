@@ -102,4 +102,5 @@
   ![ezgif-1-qemu](https://user-images.githubusercontent.com/115150753/207927199-6e985043-34c6-4831-897b-402e3adc30b4.gif)
 
  - Disk,CPU,Memory,Network ใช้ค่า Default
- 
+ ![otheros3](https://user-images.githubusercontent.com/115150753/208068484-b6b7d238-9540-468c-ae68-0294cc82ef44.png)
+
