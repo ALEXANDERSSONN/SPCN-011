@@ -113,5 +113,22 @@
  - คลิกไปที่ Install Linux Mint ด้านขวาบน เพื่อทำการติดตั้ง
  ![ezgif-1-install mint](https://user-images.githubusercontent.com/115150753/208070843-47a3680b-5f16-46e9-b5d9-d63d2723c1f1.gif)
 
+ - ทำการติดตั้ง และ Set ค่าต่างๆ
+ ![mint install 1](https://user-images.githubusercontent.com/115150753/208072624-166a9639-483d-4497-883a-72f618642dc4.png)
+
+ ![mint install 2](https://user-images.githubusercontent.com/115150753/208072728-56f204d4-04da-46c5-991f-97db6e8c95f5.png)
+
+ ![mint install 3](https://user-images.githubusercontent.com/115150753/208072802-3a29ab3d-414a-4b98-92cf-5fb00d8ce686.png)
+
+ ![mint install 4](https://user-images.githubusercontent.com/115150753/208072830-ccc9e35b-2029-42f9-b031-29cb141bb55a.png)
+
+ - รอติดตั้งจนเสร็จ
+
+ ![mint install 5](https://user-images.githubusercontent.com/115150753/208072889-e3d9a265-3f7d-452a-986f-aef53dae65dc.png)
+
+
+
+
+
 
 
