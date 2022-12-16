@@ -95,4 +95,5 @@
  - ตั้งชื่อ ทำการเลือก Node ตั้งชื่อ และเลือก Resource Pool 
 ![ezgif-1-resource](https://user-images.githubusercontent.com/115150753/207926498-4347d60e-45c6-4fff-b154-3af5a063f601.gif)
 
-
+- OS เลือก ISO image เป็น linuxmint-21-mate-64bit.iso เลือก type เป็น linux
+![ezgif-2-linuxmint](https://user-images.githubusercontent.com/115150753/208017849-95acec22-ac84-44f7-b252-34ccb3eeb4aa.gif)
