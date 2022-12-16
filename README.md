@@ -104,3 +104,7 @@
  - Disk,CPU,Memory,Network ใช้ค่า Default
  ![otheros3](https://user-images.githubusercontent.com/115150753/208068484-b6b7d238-9540-468c-ae68-0294cc82ef44.png)
 
+ - เมื่อ Boot ขึ้นมาแล้ว ให้เลือก Start Linux Mint 21 Mate 64-bit
+ ![Mint 1](https://user-images.githubusercontent.com/115150753/208068939-99827872-ce6f-4ce3-8828-73837b16fa61.png)
+
+
