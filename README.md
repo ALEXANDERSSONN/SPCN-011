@@ -86,3 +86,13 @@
      - apt install htop
 
 ![htop](https://user-images.githubusercontent.com/115150753/207872711-c39b6fdf-7e3b-4356-8780-16ba84218554.png)
+
+**การสร้าง VM ด้วย OS ตัวอื่นๆ**
+
+ - คลิกที่ Create VM ด้านขวาบน
+![ezgif-3-3190f34ba1](https://user-images.githubusercontent.com/115150753/207913674-51bf5ba5-6c17-41f4-86c0-325c5d2f6963.gif)
+
+ - ตั้งชื่อ ทำการเลือก Node ตั้งชื่อ และเลือก Resource Pool 
+![ezgif-1-resource](https://user-images.githubusercontent.com/115150753/207926498-4347d60e-45c6-4fff-b154-3af5a063f601.gif)
+
+
